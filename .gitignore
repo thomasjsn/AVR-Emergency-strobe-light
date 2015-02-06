@@ -1,0 +1,5 @@
+*.bin
+*.bm
+*.dbg
+*.obj
+*.sim
