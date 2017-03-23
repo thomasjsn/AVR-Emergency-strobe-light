@@ -2,7 +2,7 @@
 
 33 high intensity LEDs are controlled with a AVR ATtiny2313 microcontroller. Four flashing patterns that can be set manually or cycle through.
 
-![Emergency strobe light](https://uctrl.io/images/medium/369)
+![Emergency strobe light](http://i.imgur.com/ZHxWCqPl.jpg)
 
 Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
 
