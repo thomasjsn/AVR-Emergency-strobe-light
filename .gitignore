@@ -1,3 +1,6 @@
+Schematics/Last Loaded*
+Schematics/*.BMP
+Schematics/*.png
 *.bin
 *.bm
 *.dbg
