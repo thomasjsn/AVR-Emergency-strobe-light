@@ -1,10 +1,21 @@
-## Source code for project: [Emergency strobe light](https://link.stdout.no/8)
+# Emergency strobe light with 33 LEDs
 
-33 high intensity LEDs are controlled with a AVR ATtiny2313 microcontroller. Four flashing patterns that can be set manually or cycle through.
+> 33 high intensity LEDs are controlled with a AVR ATtiny2313 microcontroller. Four flashing patterns that can be set manually or cycle through. Uses an AVR ATtiny2313 microcontroller.
 
-![Emergency strobe light](image.jpg)
+Project documentation available at: https://cavelab.dev/wiki/Emergency_strobe_light_with_33_LEDs
 
-Written in basic, using [Bascom-AVR](http://www.mcselec.com/).
+![Emergency strobe light with 33 LEDs](https://cavelab.dev/images/e/e3/Emergency-strobe-light-front-with-leds-ogp9n4.jpeg)
 
-### Author
-[Thomas Jensen](https://thomas.stdout.no)
+Written in basic, using [BASCOM-AVR](http://www.mcselec.com/).
+
+## Author
+**Thomas Jensen**
+* Twitter: [@thomasjsn](https://twitter.com/thomasjsn)
+* Github: [@thomasjsn](https://github.com/thomasjsn)
+* Website: [cavelab.dev](https://cavelab.dev/wiki/User:Thomas)
+
+## License
+The MIT License (MIT). Please see [license file](LICENSE.txt) for more information.
+
+---
+_This README was automatically generated using the MediaWiki API_ (`pageid:320`)
